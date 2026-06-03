@@ -1,0 +1,22 @@
+# Dataset files 
+*.csv
+
+# Environment variables 
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Conda environment 
+*.conda
+
+# Mac junk
+.DS_Store
+
+# Google Cloud credentials
+application_default_credentials.json
