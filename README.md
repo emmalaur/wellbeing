@@ -72,6 +72,7 @@ Neither predictor shows a statistically significant relationship with `final_gra
 | Conda | Environment management |
 | Google Cloud Storage | Remote dataset hosting |
 | VS Code | Development environment |
+| Claude Code | Explanation of Concepts, help generating Algorithm, Cloud/Bucket interaction |
 
 ---
 
