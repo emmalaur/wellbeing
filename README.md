@@ -131,6 +131,12 @@ Open `analysis.ipynb` in VS Code and run all cells.
 
 ---
 
+## Video Demonstration
+
+https://youtu.be/8JpDrLop1H0
+
+---
+
 ## Author
 
 Emma Reeb 
